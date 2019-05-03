@@ -1,4 +1,4 @@
-# 马尔科夫决策过程(MDP) - 对Q学习适配的贝尔曼方程
+# 马尔科夫决策过程(MDP) - 对强化学习适配的贝尔曼方程
 # 通过Q动作值（回报）函数的强化学习
 # Copyright 2018 Denis Rothman MIT License. See LICENSE.
 import numpy as ql
